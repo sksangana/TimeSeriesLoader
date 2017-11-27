@@ -1,0 +1,27 @@
+{
+   "DrillOperations":{
+      "EventType":"DrillOps",
+      "Timestamp":"1999-12-31 23:59:59",
+      "MP1Speed":105,
+      "MP2Speed":105,
+      "MP3Speed":105,
+      "MP4Speed":105,
+      "MP5Speed":105,
+      "STP1":7500,
+      "BoostPress":7500,
+      "TDSpeed":300,
+      "TDTorque":300,
+      "MudFlowReturn":100,
+      "MP1Press":7500,
+      "MP2Press":7500,
+      "MP3Press":7500,
+      "MP4Press":7500,
+      "MP5Pressure":7500,
+      "ElevatorPos":170,
+      "HookSpeed":6.56168,
+      "BitDepth":40000,
+      "TotalDepth":40000,
+      "HookLoad":3000,
+      "WOB":220
+   }
+}

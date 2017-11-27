@@ -1,0 +1,34 @@
+Nov 26, 2017 11:17:20 PM com.ibm.diamondoffshore.edgeservice.TimeSeriesLoader main
+INFO: Message Fetched is ..{"MonitorEvents":{"OpSys":{"FileSys":"Value","Memory":"Value","CPU":"Value"},"IIB":{"Bipservice":"Value","DataFlowEngine":"Value","bipMasterService":"Value","Biphttplistener":"Value","Bipbroker":"Value"},"MQ":{"ListenerProcess":"Value","DeadletterDepth":"Value","QueueDepth":"Value","QMgrStatus":"Value"},"EventType":"MQ","INFORMIX":{"DBError":"Value","DBCopy":"Value"}}}
+Nov 26, 2017 11:17:20 PM com.ibm.diamondoffshore.edgeservice.mq.MQConnectionManager <init>
+INFO: Successfully got the MQ connection attributes ...
+Nov 26, 2017 11:17:20 PM com.ibm.diamondoffshore.edgeservice.mq.MQConnectionManager <init>
+INFO: Successfully Opened th Queue for Access ..
+Nov 26, 2017 11:17:20 PM com.ibm.diamondoffshore.edgeservice.mq.MQConnectionManager <init>
+INFO: Successfully got the MQ connection attributes ...
+Nov 26, 2017 11:17:20 PM com.ibm.diamondoffshore.edgeservice.mq.MQConnectionManager <init>
+INFO: Successfully Opened th Queue for Access ..
+Nov 26, 2017 11:17:20 PM com.ibm.diamondoffshore.edgeservice.mq.MQConnectionManager <init>
+INFO: Successfully got the MQ connection attributes ...
+Nov 26, 2017 11:17:20 PM com.ibm.diamondoffshore.edgeservice.mq.MQConnectionManager <init>
+INFO: Successfully Opened th Queue for Access ..
+Nov 26, 2017 11:17:20 PM com.ibm.diamondoffshore.edgeservice.mq.MQFetch getMessage
+INFO: Successfully getting the message ..
+Nov 26, 2017 11:17:20 PM com.ibm.diamondoffshore.edgeservice.TimeSeriesLoader main
+INFO: Message Fetched is ..{"MonitorEvents":{"OpSys":{"FileSys":"Value","Memory":"Value","CPU":"Value"},"IIB":{"Bipservice":"Value","DataFlowEngine":"Value","bipMasterService":"Value","Biphttplistener":"Value","Bipbroker":"Value"},"MQ":{"ListenerProcess":"Value","DeadletterDepth":"Value","QueueDepth":"Value","QMgrStatus":"Value"},"EventType":"MQ","INFORMIX":{"DBError":"Value","DBCopy":"Value"}}}
+Nov 26, 2017 11:17:20 PM com.ibm.diamondoffshore.edgeservice.mq.MQConnectionManager <init>
+INFO: Successfully got the MQ connection attributes ...
+Nov 26, 2017 11:17:20 PM com.ibm.diamondoffshore.edgeservice.mq.MQConnectionManager <init>
+INFO: Successfully Opened th Queue for Access ..
+Nov 26, 2017 11:17:20 PM com.ibm.diamondoffshore.edgeservice.mq.MQConnectionManager <init>
+INFO: Successfully got the MQ connection attributes ...
+Nov 26, 2017 11:17:20 PM com.ibm.diamondoffshore.edgeservice.mq.MQConnectionManager <init>
+INFO: Successfully Opened th Queue for Access ..
+Nov 26, 2017 11:17:20 PM com.ibm.diamondoffshore.edgeservice.mq.MQConnectionManager <init>
+INFO: Successfully got the MQ connection attributes ...
+Nov 26, 2017 11:17:20 PM com.ibm.diamondoffshore.edgeservice.mq.MQConnectionManager <init>
+INFO: Successfully Opened th Queue for Access ..
+Nov 26, 2017 11:17:20 PM com.ibm.diamondoffshore.edgeservice.mq.MQFetch getMessage
+INFO: Successfully getting the message ..
+Nov 26, 2017 11:17:20 PM com.ibm.diamondoffshore.edgeservice.TimeSeriesLoader main
+INFO: Message Fetched is ..{"MonitorEvents":{"OpSys":{"FileSys":"Value","Memory":"Value","CPU":"Value"},"IIB":{"Bipservice":"Value","DataFlowEngine":"Value","bipMasterService":"Value","Biphttplistener":"Value","Bipbroker":"Value"},"MQ":{"ListenerProcess":"Value","DeadletterDepth":"Value","QueueDepth":"Value","QMgrStatus":"Value"},"EventType":"MQ","INFORMIX":{"DBError":"Value","DBCopy":"Value"}}}

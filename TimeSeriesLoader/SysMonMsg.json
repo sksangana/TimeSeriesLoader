@@ -1,0 +1,10 @@
+{
+"MonitorEvents": 
+{
+  "EventType": "MQ",
+  "OpSys": {"CPU": "Value","Memory": "Value",	"FileSys": "Value"},
+  "MQ": {	"QueueDepth": "Value","DeadletterDepth": "Value","ListenerProcess": "Value","QMgrStatus": "Value"},
+  "IIB": {	"Bipservice": "Value","Bipbroker": "Value","Biphttplistener": "Value","bipMasterService": "Value","DataFlowEngine": "Value"},
+  "INFORMIX": {"DBError": "Value","DBCopy": "Value"}
+}
+}
